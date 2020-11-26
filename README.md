@@ -6,5 +6,5 @@ For the GitHub repository please click [here](https://github.com/irsyadqomar/cov
 
 For the Binder repository please click the badge: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/irsyadqomar/covid19dashboard/HEAD)
 
-For the Voila rendered dashboard please click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/irsyadqomar/covid19dashboard/HEAD?urlpath=voila%2Frender%2FEngland%20vs%20Scotland.ipynb)
+For the Voila rendered dashboard please click [here](https://mybinder.org/v2/gh/irsyadqomar/covid19dashboard/HEAD?urlpath=voila%2Frender%2FEngland%20vs%20Scotland.ipynb)
 
